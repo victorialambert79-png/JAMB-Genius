@@ -1,0 +1,7 @@
+{
+  "name": "JAMB Genius",
+  "description": "AI-powered JAMB preparation platform for Nigerian students with verified syllabus, lessons, CBT mocks, smart tutor, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
